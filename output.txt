@@ -1,0 +1,120 @@
+ ---------------
+| Question no. 1|
+Student answer1---> Hydrolysis is a chemical reaction of the interaction of chemicals with water, leading to the 
+decomposition of both the substance and water.  
+ 
+Actual Answer1---> Hydrolysis is a common form of a chemical reaction where water is 
+mostly used to break down the chemical bonds that exists between a 
+particular substance.    
+    
+------------------------------------------------------
+||Score for this question :-----> 2/2
+------------------------------------------------------
+
+
+
+ ---------------
+| Question no. 2|
+Student answer2---> Answer is 10 litres.  
+ 
+Actual Answer2---> Answer is coming as 10  litres.    
+    
+------------------------------------------------------
+||Score for this question :-----> 2/2
+------------------------------------------------------
+
+
+
+ ---------------
+| Question no. 3|
+Student answer3---> An electron is a negatively charged subatomic particle that together with protons and neutrons 
+form an atom's nucleus . 
+ 
+Actual Answer3---> A small particle with a negative charge that  is found in all atoms.    
+    
+------------------------------------------------------
+||Score for this question :-----> 1.0/2
+------------------------------------------------------
+
+
+
+ ---------------
+| Question no. 4|
+Student answer4---> Velocity in physics is defined as a vector measurement of the direction and rate of the motion.  
+ 
+Actual Answer4---> Velocity is the directional speed of an object in motion as an indication 
+of its rate of change in position.    
+    
+------------------------------------------------------
+||Score for this question :-----> 2/2
+------------------------------------------------------
+
+
+
+ ---------------
+| Question no. 5|
+Student answer5---> 70 muscles are involved in sp eaking.  
+ 
+Actual Answer5---> About 70 muscles are involved in speaking.    
+    
+------------------------------------------------------
+||Score for this question :-----> 2/2
+------------------------------------------------------
+
+
+
+ ---------------
+| Question no. 6|
+Student answer6---> False  
+ 
+Actual Answer6---> It’s answer is True.    
+    
+------------------------------------------------------
+||Score for this question :-----> 0/2
+------------------------------------------------------
+
+
+
+ ---------------
+| Question no. 7|
+Student answer7---> The electrostatic force is an attractive as well as repulsive force caused by the electric charge 
+particles.  
+Actual Answer7--->    
+------------------------------------------------------
+||Score for this question :-----> 0/2
+------------------------------------------------------
+
+
+
+ ---------------
+| Question no. 8|
+Student answer8--->  The chlorophyll pigment is responsible for the green colouration in plants. Chlorophyll is one 
+among a group of pigments used to convert sunlight energy into chemical energy through the 
+process of photosynthesis. Chlorophyll absorbs energy from sunlight, and this energy is later used to 
+convert carbon dioxide into carbohydrates. The by -product of this process is oxygen.  
+Besides plants, chlorophyll is found in all photosynthetic organisms such as cyanobacteria.  
+Chlorophyll exists in several forms but chlorophyll a and chlorophyll b are the most common – 
+typically found in higher plants and green algae. Chlorophyll c is found  in certain marine algae and 
+Chlorophyll d is found in certain species of cyanobacteria. Even rarer is Chlorophyll e – found only in 
+some golden algae. Interestingly, chlorophyll has a similar structure to haemoglobin, which is found 
+in red blood cells of vertebrates.   
+Actual Answer8---> chlorophyll, any member of the most important class of pigments 
+involved in photosynthesis, the process by which light energy is converted to 
+chemical energy through the synthesis of organic compounds. Chlorophyll is 
+found in virtually all photosynthe tic organisms, including green plants, 
+cyanobacteria, and algae. It absorbs energy from light; this energy is then used 
+to convert carbon dioxide to carbohydrates.    
+The chlorophyll molecule consists of a central magnesium atom surrounded by 
+a nitrogen -containing structure called a porphyrin ring; attached to the ring is a 
+long carbon –hydrogen side chain, known as a phytol chain. Variations are due 
+to minor modifications of certain side groups. Chlorophyll is remarkably similar 
+in structure to haemoglobin,  the oxygen -carrying pigment found in the red 
+blood cells of mammals and other vertebrates.      
+------------------------------------------------------
+||Score for this question :-----> 2/2
+------------------------------------------------------
+
+
+
+
+Total score:- 11.0/16

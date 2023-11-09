@@ -1,0 +1,90 @@
+Microsoft Windows [Version 10.0.22621.2428]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Asus>C:\Program Files\MySQL\MySQL Server 8.0\bin
+'C:\Program' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Asus>cd C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin>mysql -u root -p
+Enter password: ************
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 14
+Server version: 8.0.33 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2023, Oracle and/or its affiliates.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> CREATE DATABASE exampaper;
+Query OK, 1 row affected (0.00 sec)
+
+mysql> USE exampaper;
+Database changed
+mysql> CREATE USER 'root'@'localhost' IDENTIFIED BY 'Hellorohit@8';
+ERROR 1396 (HY000): Operation CREATE USER failed for 'root'@'localhost'
+mysql> CREATE USER 'rohit'@'localhost' IDENTIFIED BY 'Hellorohit@8';
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> GRANT ALL PRIVILEGES ON exampaper.* TO 'rohit'@'localhost';
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> FLUSH PRIVILEGES;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> CREATE TABLE model_answers (
+         id INT AUTO_INCREMENT PRIMARY KEY,
+         subject_code VARCHAR(255) NOT NULL,
+         file_name VARCHAR(255) NOT NULL,
+         file_path VARCHAR(255) NOT NULL,
+         upload_timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+     );
+Query OK, 0 rows affected (0.01 sec)
+
+
+subject_code VARCHAR(255) NOT NULL,
+student_name VARCHAR(' at line 1
+mysql> CREATE TABLE student_answers (
+     subject_code VARCHAR(255) NOT NULL,
+     student_name VARCHAR(255) NOT NULL,
+     roll_no VARCHAR(255) NOT NULL,
+     python_output TEXT
+     );
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> select * from student_answers;
+Empty set (0.00 sec)
+
+mysql> CREATE USER 'root'@'localhost' IDENTIFIED BY 'Hellorohit@8';
+ERROR 1396 (HY000): Operation CREATE USER failed for 'root'@'localhost'
+mysql> CREATE USER 'rohit'@'localhost' IDENTIFIED BY 'Hellorohit@8';
+ERROR 1396 (HY000): Operation CREATE USER failed for 'rohit'@'localhost'
+mysql> select * from student_answers;
++--------------+--------------+---------+---------------+
+| subject_code | student_name | roll_no | python_output |
++--------------+--------------+---------+---------------+
+| 1234         | Rohit        | 234     | NULL          |
++--------------+--------------+---------+---------------+
+1 row in set (0.00 sec)
+
+mysql> select * from model_answers;
++----+--------------+------------------------+--------------------------------+---------------------+
+| id | subject_code | file_name              | file_path                      | upload_timestamp    |
++----+--------------+------------------------+--------------------------------+---------------------+
+|  1 | 1234         | 1234_model_answers.pdf | uploads/1234_model_answers.pdf | 2023-10-19 15:31:12 |
++----+--------------+------------------------+--------------------------------+---------------------+
+1 row in set (0.00 sec)
+
+mysql>
+
+ insert into student_answers(subject_code, student_name,roll_no,python_output ) VALUES (1234, 'Rohit',234,NULL);
+ insert into model_answers;(id ,subject_code,file_name, file_path, upload_timestamp) VALUES (1,1234, 'Rohit',234,NULL);
+
+
+CREATE USER 'smriti'@'localhost' IDENTIFIED BY 'Hellosmriti@8';
+GRANT ALL PRIVILEGES ON exampaper.* TO 'smriti'@'localhost';
